@@ -1,8 +1,8 @@
-# TMDB Movie Fetcher
+# TMDB Movies Fetcher
 
 ## Overview
 
-`TMDB Movie Fetcher` is a Python library that fetches movie data from the TMDB API and saves it into a specified database. This library is useful for developers who need to integrate TMDB movie data into their applications.
+[TMDB Movies Fetcher](https://pypi.org/project/oeademola-movies-fetcher/) is a Python library that fetches movies data from the TMDB API and saves it into a specified database. This library is useful for developers who need to integrate TMDB movie data into their applications.
 
 ## Features
 
